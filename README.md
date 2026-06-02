@@ -1,4 +1,6 @@
-![Banner](banner.png)
+<p align="center">
+  <img src="assets/banner.png" alt="Banner">
+</p>
 
 ### Hola, soy Axel 
 
