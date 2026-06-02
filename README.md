@@ -1,4 +1,6 @@
-# Hola, soy Axel 
+![Banner](banner.png)
+
+### Hola, soy Axel 
 
 ## Desarrollador Front-End
 
