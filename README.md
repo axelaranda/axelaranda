@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hola, soy Axel 
 
-<!--
-**axelaranda/axelaranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Desarrollador Front-End
 
-Here are some ideas to get you started:
+## Creo sistemas escalables y enfocados en el usuario
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Especializado en:
+- Next.js
+- React
+- TypeScript
+- JavaScript
+
+🚀 Interesado en:
+- Inteligencia Artificial
+- Desarrollo Web
+- Startups Tecnológicas
+
+## Tecnologías
+
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+## Contacto
+
+- LinkedIn: www.linkedin.com/in/axel-aranda
+- Email: axelemilianoaranda1993@gmail.com
