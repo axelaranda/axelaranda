@@ -6,8 +6,6 @@
 
 ## Desarrollador Front-End
 
-## Creo sistemas escalables y enfocados en el usuario
-
 💻 Especializado en:
 - Next.js
 - React
