@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Banner">
+  <img src="assets/ChatGPT%Image%1%jpppun%2026,%23_16_40.png.png" alt="Banner">
 </p>
 
 ### Hola, soy Axel 
