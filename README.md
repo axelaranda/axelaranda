@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Banner">
+  <img src="banner.png" alt="Banner">
 </p>
 
 ### Hola, soy Axel 
