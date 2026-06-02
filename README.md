@@ -2,7 +2,7 @@
   <img src="banner.png" alt="Banner">
 </p>
 
-### Hola, soy Axel 
+# Hola, soy Axel 
 
 ## Desarrollador Front-End
 
