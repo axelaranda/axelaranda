@@ -26,3 +26,4 @@
 
 - LinkedIn: www.linkedin.com/in/axel-aranda
 - Email: axelemilianoaranda1993@gmail.com
+- Phone: 54 3435032200
