@@ -29,10 +29,10 @@ Me formé en el Bootcamp Henry, donde participé en el desarrollo de soluciones 
 
 ## Repositorios
 
-Sitio web de embarcaciones: https://github.com/axelaranda/ParanaBoats
-E-commerce del Bootcamp: https://github.com/axelaranda/E-comm
-Front de plataforma para empresa real desarrollada en el Bootcamp: https://github.com/axelaranda/Viacore-front
-Back de plataforma para empresa real desarrollada en el Bootcamp: https://github.com/axelaranda/Viacore-back
+- Sitio web de embarcaciones: https://github.com/axelaranda/ParanaBoats
+- E-commerce del Bootcamp: https://github.com/axelaranda/E-comm
+- Front de plataforma para empresa real desarrollada en el Bootcamp: https://github.com/axelaranda/Viacore-front
+- Back de plataforma para empresa real desarrollada en el Bootcamp: https://github.com/axelaranda/Viacore-back
 
 ## Contacto
 
