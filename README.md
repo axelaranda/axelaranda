@@ -25,7 +25,7 @@
 
 ## Educación y experiencia
 
-Me formé en el Bootcamp Henry, donde participé en el desarrollo de soluciones web colaborativas, incluyendo un e-commerce y una plataforma/sistema operativo para una empresa real que ofrece cursos a medida. Además, desarrollé de manera independiente un sitio web para la publicación y comercialización de embarcaciones, integrando contacto directo con clientes a través de WhatsApp y una aplicación orientada a monotributistas argentinos para la creación de Facturas C aprobadas por ARCA mediante comandos de voz, combinando desarrollo web e inteligencia artificial.
+Me formé en el Bootcamp Henry, donde participé en el desarrollo de soluciones web individuales y colaborativas, incluyendo un e-commerce y una plataforma/sistema operativo para una empresa real que ofrece cursos a medida. Además, desarrollé de manera independiente un sitio web para la publicación y comercialización de embarcaciones, integrando contacto directo con clientes a través de WhatsApp y una aplicación orientada a monotributistas argentinos para la creación de Facturas C aprobadas por ARCA mediante comandos de voz, combinando desarrollo web e inteligencia artificial.
 
 ## Repositorios
 
