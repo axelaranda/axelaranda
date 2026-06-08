@@ -4,7 +4,7 @@
 
 # Hola, soy Axel 
 
-## Desarrollador Front-End con experiencia también en Back-End
+## Desarrollador especializado en Front-End con experiencia también en Back-End
 
 💻 Especializado en:
 - Next.js
