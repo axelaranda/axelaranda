@@ -34,6 +34,7 @@ Me formé en el Bootcamp Henry, donde participé en el desarrollo de soluciones 
 - Front de plataforma para empresa real desarrollada en el Bootcamp: https://github.com/axelaranda/Viacore-front
 - Back de plataforma para empresa real desarrollada en el Bootcamp: https://github.com/axelaranda/Viacore-back
 - App para monotributistas argentinos que crea facturas: https://github.com/axelaranda/Vani
+- Primer app inteligente para clubes náuticos del mundo: https://github:com/axelaranda/Ronn
 
 ## Contacto
 
